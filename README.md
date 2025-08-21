@@ -28,7 +28,7 @@ register.html
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd "Code Craft Academy – HTML Training Website"
+   cd "Code_Craft_Academy-main"
    ```
 3. Open `index.html` or `register.html` in your browser.  
 
