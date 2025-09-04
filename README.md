@@ -53,6 +53,17 @@ register.html
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏠 Homepage Preview
+![Homepage](Home_page.png)
+
+### 📘 README Snapshot
+![README](README.md)
+
+---
+
+
 ## 🎯 Use Cases
 - Freshers learning the basics of web development.  
 - Students building **mini-projects** for college.  
