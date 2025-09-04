@@ -59,7 +59,7 @@ register.html
 ![Homepage](Home_page.png)
 
 ### 📘 README Snapshot
-![Register_Page](Register_page.md)
+![Register_Page](Register_page.png)
 
 ---
 
